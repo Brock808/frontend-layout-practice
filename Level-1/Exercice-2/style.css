@@ -1,0 +1,19 @@
+.box{
+    height: 100px;
+    margin:10px;
+}
+
+.box1{
+    width: 300px;
+    background-color: red;
+}
+
+.box2{
+    width: 50%;
+    background-color: blue;
+}
+
+.box3{
+    width: 50vw;
+    background-color: yellow;
+}

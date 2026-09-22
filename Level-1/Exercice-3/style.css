@@ -1,0 +1,21 @@
+
+.father{
+    height:500px;
+    border:2px solid black;
+}
+
+.son1{
+    height:100px;
+    background:red;
+}
+
+.son2{
+    /* It has height because has content inside  */
+    height:50%;
+    background:green;
+}
+
+.son3{
+    height:20vh;
+    background: blue;
+}

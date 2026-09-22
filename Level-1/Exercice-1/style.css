@@ -1,0 +1,11 @@
+.father{
+    width: 800px;
+    height: 50vh;
+    background-color: aqua;
+}
+
+.son{
+    width: 25%;
+    height: 25%;
+    background-color: red;
+}
