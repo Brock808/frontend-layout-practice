@@ -1,0 +1,15 @@
+#header{
+    height: 10vh;
+    background: red;
+}
+
+#main{
+    /* Occupies the whole free space  */
+    flex:1; 
+    background: blue;
+}
+
+#footer{
+    background: gray;
+    min-height: 10vh;
+}
